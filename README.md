@@ -1,16 +1,9 @@
-# glorify_movies_app
+# Movies_App
 
-A new Flutter application.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2021-08-17 at 21 20 27 (1)](https://user-images.githubusercontent.com/65757410/129759699-994730de-6298-49a0-bc71-cb88585a17a4.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2021-08-17 at 21 20 27](https://user-images.githubusercontent.com/65757410/129759715-1161e907-acc4-4e87-8fc9-2b19503bdd8f.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
