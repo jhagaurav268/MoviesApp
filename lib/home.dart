@@ -50,8 +50,9 @@ class _HomeState extends State<Home> {
     return Scaffold(
         backgroundColor: Colors.black,
         appBar: AppBar(
-          title: ModifiedText(text: 'Flutter Movie App ❤️'),
+          title: ModifiedText(text: 'Flutter Movie App'),
           backgroundColor: Colors.transparent,
+          centerTitle: true,
         ),
         body: ListView(
           children: [
